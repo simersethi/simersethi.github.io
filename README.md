@@ -6,4 +6,4 @@ This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub
 
-Lets try Git Pull command again.
+Lets try Git Fetch/Merge command OR Instead, use Git Pull command.
